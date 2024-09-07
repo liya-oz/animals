@@ -8,3 +8,4 @@ This project features Markdown files with brief information and interesting fact
 
 3. [Whales](whales.md) - Diverse aquatic mammals, including the largest animal ever.
 
+4. [Pangolin](pangolin.md) - Scaled mammal that curls into a ball for protection.
