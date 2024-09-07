@@ -1,4 +1,4 @@
-# Animal List
+## Animal List
 
 This project features Markdown files with brief information and interesting facts about three rare animals. Anyone interested in learning more about these unique creatures is welcome to explore!
 
